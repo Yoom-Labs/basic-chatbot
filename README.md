@@ -1,4 +1,7 @@
 # Basic Chatbot
+
+[![Join the chat at https://gitter.im/basic-chatbot/community](https://badges.gitter.im/basic-chatbot/community.svg)](https://gitter.im/basic-chatbot/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A basic chatbot that gears towards certain topics. The purpose is to be able to traing a chatbot
 in that it can talk like a normal person, but it has a specific mission in mind.
 
