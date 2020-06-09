@@ -1,0 +1,1 @@
+test:{'exs': 400, 'accuracy': 1.0, 'f1': 1.0, 'bleu': 0.2503, 'lr': 0.001, 'num_updates': 0, 'token_acc': 1.0, 'loss': 0.001673, 'ppl': 1.002}

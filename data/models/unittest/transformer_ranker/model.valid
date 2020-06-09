@@ -1,0 +1,1 @@
+valid:{'exs': 400, 'accuracy': 1.0, 'f1': 1.0, 'hits@1': 1.0, 'hits@5': 1.0, 'hits@10': 1.0, 'hits@100': 1.0, 'bleu': 0.2503, 'lr': 0.001, 'num_updates': 625, 'examples': 400, 'loss': 84.05, 'mean_loss': 0.2101, 'mean_rank': 1.17, 'train_accuracy': 0}

@@ -1,0 +1,8 @@
+{
+    "parleys": 313,
+    "train_time": 20.729791164398193,
+    "total_epochs": 20.032,
+    "impatience": 0,
+    "valid_reports": [],
+    "best_valid": null
+}

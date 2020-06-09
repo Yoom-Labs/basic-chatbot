@@ -1,0 +1,1 @@
+test:{'exs': 400, 'accuracy': 1.0, 'f1': 1.0, 'hits@1': 1.0, 'hits@5': 1.0, 'hits@10': 1.0, 'hits@100': 1.0, 'bleu': 0.2503, 'lr': 0.001, 'num_updates': 625, 'examples': 400, 'loss': 83.71, 'mean_loss': 0.2093, 'mean_rank': 1.16, 'train_accuracy': 0}

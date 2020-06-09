@@ -1,0 +1,4 @@
+test:
+    accuracy  bleu-4  exs    f1  loss    lr   ppl  token_acc  total_train_updates   tpb
+       .6200   .6337  100 .9423 .1867 .0070 1.205      .9314                  313 160.2
+

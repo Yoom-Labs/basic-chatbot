@@ -1,0 +1,1 @@
+test:{'exs': 100, 'accuracy': 1.0, 'f1': 1.0, 'bleu-4': 1.0, 'lr': 0.0035, 'total_train_updates': 384, 'gpu_mem_percent': 0.000895, 'loss': 0.001568, 'token_acc': 1.0, 'nll_loss': 0.00039, 'ppl': 1.0}

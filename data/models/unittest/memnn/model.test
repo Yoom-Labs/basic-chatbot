@@ -1,0 +1,1 @@
+test:{'exs': 100, 'accuracy': 0.84, 'f1': 1.0, 'hits@1': 0.84, 'hits@5': 1.0, 'hits@10': 1.0, 'hits@100': 1.0, 'bleu': 0.84, 'lr': 1, 'num_updates': 357419, 'gpu_mem_percent': 0.000234, 'examples': 100, 'loss': 17.74, 'mean_loss': 0.1774, 'mean_rank': 1.19, 'mrr': 0.9158}

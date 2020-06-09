@@ -1,0 +1,4 @@
+valid:
+    accuracy  bleu-4  exs  f1  gpu_mem     loss    lr   ppl  token_acc  total_train_updates  tpb
+           1       1  100   1  .002349 .0006466 .0070 1.001          1                  313  125
+
